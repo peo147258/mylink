@@ -19,7 +19,8 @@ export default function Home() {
 
         {/* 소개글 */}
         <p className="text-slate-600 text-base leading-relaxed break-keep mb-8">
-          안녕하세요! 미래에 한국어 선생님이 될 대학생입니다.
+          언어로 마음을 잇고 문화를 나눕니다.<br />
+          함께 배우며 성장하는 따뜻한 한국어 교사를 꿈꾸고 있어요.
         </p>
 
         {/* 구분선 */}

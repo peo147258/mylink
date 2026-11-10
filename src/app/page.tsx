@@ -19,8 +19,8 @@ export default function Home() {
 
         {/* 소개글 */}
         <p className="text-slate-600 text-base leading-relaxed break-keep mb-8">
-          언어로 마음을 잇고 문화를 나눕니다.<br />
-          함께 배우며 성장하는 따뜻한 한국어 교사를 꿈꾸고 있어요.
+          한국어의 매력을 세계에 전하는 그날까지!<br />
+          배우는 즐거움과 성장의 기쁨을 함께할 준비를 하고 있어요 ✨
         </p>
 
         {/* 구분선 */}

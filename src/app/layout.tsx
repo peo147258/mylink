@@ -14,7 +14,8 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "박은옥 | 프로필",
-  description: "안녕하세요! 미래에 한국어 선생님이 될 대학생 박은옥입니다.",
+  description:
+    "한국어의 매력을 세계에 전하는 그날까지! 배우는 즐거움과 성장의 기쁨을 함께할 준비를 하고 있어요 ✨",
 };
 
 export default function RootLayout({
